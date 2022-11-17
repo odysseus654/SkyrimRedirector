@@ -15,7 +15,7 @@ __declspec(dllexport) SKSEPluginVersionData SKSEPlugin_Version =
 	"Skyrim Redirector",
 
 	"",
-	"https://github.com/Davipb/SkyrimRedirector",
+	"https://github.com/odysseus654/SkyrimRedirector",
 
 	// setting ourselves as "not using structures" hopefully exempts us from any version checking
 	VERSIONINDEPENDENTEX_NO_STRUCT_USE,
